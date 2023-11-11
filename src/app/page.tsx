@@ -36,6 +36,9 @@ export default function Home() {
                     <a className="block text-xs underline text-gray-900 font-medium" href="auth/password-lost">Forgot password?</a>
                   </div>
                 </div>
+                <div className='text-center mb-5'>
+                  <a href="/auth/waitlist" className='underline font-medium w-full text-xs'>Not already have an account ? Create one !</a>
+                </div>
                 <div className="flex items-center justify-between">
                   <button className="bg-primary text-white w-full font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
                     Sign in
