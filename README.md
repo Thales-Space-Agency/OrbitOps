@@ -2,6 +2,8 @@
 
 Welcome to OrbitOps, the ultimate web application designed for centralized management of various projects. 🛰️
 
+[OrbitOps](https://github.com/Thales-Space-Agency/OrbitOps)© 2023 by [Teyk0o](https://github.com/Teyk0o) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+
 ## About OrbitOps 🚀
 
 OrbitOps is a specialized web application developed to streamline the management and analysis of data across multiple space exploration and technology projects. It serves as a central hub for integrating, monitoring, and controlling various project parameters and datasets. 🖥️
