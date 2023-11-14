@@ -39,6 +39,7 @@ To get started with OrbitOps, follow these steps:
 - `http://localhost:3000/auth/create-account`
 - `http://localhost:3000/auth/waitlist`
 - `http://localhost:3000/auth/password-lost`
+- `http://localhost:3000/onboard`
 
 ## How to Contribute 🤝
 
