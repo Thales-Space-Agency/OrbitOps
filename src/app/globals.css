@@ -5,6 +5,7 @@
 :root {
   --foreground-rgb: 33, 35, 44;
   --background-rgb: 255, 255, 255;
+  --background-light-blue: 249, 250, 251;
 }
 
 /* @media (prefers-color-scheme: dark) {
@@ -16,9 +17,14 @@
 body {
   color: rgb(var(--foreground-rgb));
   background: rgb(var(--background-rgb));
+  overflow: hidden !important;
 }
 
 .bg-primary {
   background: rgb(var(--foreground-rgb));
   color: rgb(var(--background-rgb));
+}
+
+.bg-light-blue {
+  background: rgb(var(--background-light-blue));
 }
