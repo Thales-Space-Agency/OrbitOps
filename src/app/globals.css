@@ -28,3 +28,19 @@ body {
 .bg-light-blue {
   background: rgb(var(--background-light-blue));
 }
+
+.custom-height-unset {
+  height: unset !important;
+}
+
+.bg-discord {
+  background: #7289da;
+}
+
+.bg-github {
+  background: #333;
+}
+
+.bg-youtube {
+  background: #ff0000;
+}
